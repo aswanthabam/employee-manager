@@ -1,4 +1,7 @@
- /* forms */
+body {
+  padding: 20px;
+}
+/* forms */
 
 .form {
   width: 100%;
